@@ -7,7 +7,7 @@
 <title> about</title>
 </head>
 <body>
-<h1>This is a About page...</h1>
-<h1>This is a testing project..</h1>
+<h1>This is a About page....</h1>
+
 </body>
 </html>
